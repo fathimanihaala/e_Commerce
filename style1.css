@@ -1,0 +1,76 @@
+.carousel-item {
+  width: 300px;
+  height: 500px;
+}
+img {
+  width: 300px;
+  height: 500px;
+}
+
+.row {
+  background-color: aliceblue;
+  padding: 10px;
+  margin: 5px;
+}
+.aboutimg {
+  padding: 20px;
+  width: 550px;
+  height: 300px;
+}
+.tourism {
+  padding: 20px;
+  width: 350px;
+  height: 450px;
+  float: right;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  background-color: beige;
+}
+.card {
+  width: 350px;
+  height: 450px;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+
+.h2 {
+  text-align: center;
+  color: darkgreen;
+}
+
+.form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+.button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button:hover {
+  background: #0056b3;
+}
+
+.body {
+  display: flex;
+}
+
+.main {
+  padding: 10px;
+  margin: 100px;
+}
